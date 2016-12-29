@@ -1,0 +1,4 @@
+[submodule "site/static/theme/bootstrap"]
+	path = site/static/theme/bootstrap
+	url = git@github.com:twbs/bootstrap.git
+	branch = v3-dev
