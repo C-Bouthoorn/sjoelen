@@ -1,0 +1,22 @@
+{
+  "name": "sjoelen",
+  "version": "1.0.0",
+  "description": "Sjoelen helper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Bouthoorn/sjoelen.git"
+  },
+  "keywords": [
+    "sjoelen"
+  ],
+  "author": "C-Bouthoorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C-Bouthoorn/sjoelen/issues"
+  },
+  "homepage": "https://github.com/C-Bouthoorn/sjoelen#readme"
+}
